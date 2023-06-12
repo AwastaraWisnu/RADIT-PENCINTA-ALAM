@@ -1,0 +1,8 @@
+monday 12/02/2023
+Anda telah makan 3 kali hari ini dengan total harga Rp. 20000
+tuesday 13/02/2023
+Anda telah makan 3 kali hari ini dengan total harga Rp. 13000
+wednesday 14/03/2023
+Anda telah makan 2 + minum kali hari ini dengan total harga Rp. 21000
+
+
